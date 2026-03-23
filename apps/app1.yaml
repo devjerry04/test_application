@@ -21,6 +21,6 @@ spec:
           #      parameters:
           #        - name: "replicaCount"
           #          value: "1"
-    path: 
-    repoURL: https://github.com/devopshobbies/argocd-tutorial.git
+    path: /apps
+    repoURL: https://github.com/devjerry04/test_application.git
     targetRevision: main
