@@ -21,6 +21,6 @@ spec:
           #      parameters:
           #        - name: "replicaCount"
           #          value: "1"
-    path: /apps
+    path: /manifest
     repoURL: https://github.com/devjerry04/test_application.git
     targetRevision: main
